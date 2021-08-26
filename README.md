@@ -1,4 +1,4 @@
-## OI.Transover
+# OI.Transover
 
 ## Study Objective
 Overimitation is hypothesized to drive cumulative culture by fostering the adoption and transmission of information within populations. This study tests this claim by assigning 5-year-old children (N = 64) to one of two study populations based on their tendency to overimitate (overimitators/OIs vs. non-overimitators/non-OIs). Children were presented with conventional information in the form of novel games. Both study populations showed little variation in their persistence to adopt and transmit elements of these games. However, OIs were more likely to use generic language than non-OIs when transmitting game information to their peers. Further, non-OIs altered the game rules more frequently, suggesting differences in children’s tendency to innovate between study populations. These findings indicate subtle links between cumulative culture and children’s overimitation.
@@ -38,7 +38,7 @@ Overimitation is hypothesized to drive cumulative culture by fostering the adopt
    - Analysis.3.Plot.game.modification.R  
    - Analysis.3.Plot.game.modification.RData 
    
-# Data dictionary (R-Transover.xls):
+## Data dictionary (R-Transover.xls):
   - id: participant id 
   - Sex: participant's sex
   - Age: age in days
