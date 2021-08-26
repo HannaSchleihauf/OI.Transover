@@ -4,6 +4,8 @@
 ## Written by: Hanna Schleihauf
 ## Date: 22 March 2021
 
+##set your working directory using setwd 
+
 load("./Analysis.3.game.modification/Analysis.3.game.modification.RData")
 
 library("lme4")

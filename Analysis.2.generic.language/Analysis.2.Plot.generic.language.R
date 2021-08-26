@@ -4,6 +4,8 @@
 ## Written by: Hanna Schleihauf
 ## Date: 22 March 2021
 
+##set your working directory using setwd 
+
 load("./Analysis.2.generic.language/Analysis.2.generic.language.RData")
 source("./functions/boot_glmmTMB.r")
 

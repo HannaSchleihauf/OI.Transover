@@ -4,6 +4,8 @@
 ## Written by: Hanna Schleihauf
 ## Date: 22 March 2021
 
+##set your working directory using setwd 
+
 load("./Analisis.1.adoption.transmission.fidelity/Analisis.1.adoption.transmission.fidelity.RData")
 
 library("lme4")

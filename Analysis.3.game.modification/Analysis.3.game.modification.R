@@ -4,6 +4,8 @@
 ## Written by: Hanna Schleihauf
 ## Date: 22 March 2021
 
+##set your working directory using setwd 
+
 ## load necessary packages and functions
 ## load necessary packages and functions
 source("./functions/diagnostic_fcns.r")
