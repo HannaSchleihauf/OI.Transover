@@ -1,6 +1,6 @@
 *.pdf
-
-.Rproj.user
-.Rhistory
+*.DS_Store
+*.Rproj.user
+*.Rhistory
 .RData
-.Ruserdata
+*.Ruserdata
